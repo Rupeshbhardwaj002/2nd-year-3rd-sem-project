@@ -555,7 +555,7 @@ void checkbalance(char username2[])
 
 	gotoxy(80, 10);
 	printf("TOTAL AMOUNT");
-
+    print("a");
 	gotoxy(80, 12);
 	printf("%d", summoney);
 
