@@ -1,1 +1,1 @@
-This project is basically for our bank project.
+This is for git practice.
