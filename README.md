@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🏦 Advanced Bank Management System</h1>
+  <h1>🏦 Bank Management System</h1>
   <p>A robust, console-based banking application built in C with secure file handling.</p>
 
   [![C](https://img.shields.io/badge/Language-C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
